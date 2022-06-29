@@ -103,7 +103,7 @@
           target="_blank"
           rel="noopener"
         >
-          awesome-vue
+          awesome-vue3
         </a>
       </li>
     </ul>
